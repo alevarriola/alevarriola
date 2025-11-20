@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/alevarriola/alevarriola/main/captura.png" width="100%" />
+
 # Hola, soy Alejandro — Programador, docente y creador de experiencias educativas interactivas
 
 Bienvenido a mi GitHub.  
