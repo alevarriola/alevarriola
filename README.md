@@ -29,7 +29,7 @@ Reusable scraping modules with clean separation between extraction, parsing, and
 
 ---
 
-## Tech Stack (Keywords)
+## Tech Stack
 Python · FastAPI · SQLAlchemy · PostgreSQL · SQL · Pydantic · OpenAI API · Pandas · Requests · BeautifulSoup · React · Next.js · TypeScript · Node.js · Docker · Git · Linux
 
 ---
