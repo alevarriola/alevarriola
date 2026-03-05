@@ -1,181 +1,64 @@
-<img src="https://raw.githubusercontent.com/alevarriola/alevarriola/main/captura.png" width="100%" />
+# Hi, I'm Alejandro — Python Backend / Full‑Stack Developer
 
-# Hola, soy Alejandro — Programador, docente y creador de experiencias educativas interactivas
+Welcome to my GitHub!  
+I’m **Alejandro Arriola**, a **Python Backend Engineer** focused on **data pipelines**, **AI‑assisted workflows**, and **scalable backend systems**. I build production‑ready services, clean architectures, and automation tools that turn messy inputs (Excel/PDF/JSON) into reliable, structured data.
 
-Bienvenido a mi GitHub.  
-Soy **Alejandro Arriola**, desarrollador en constante formación y docente de programación.  
-Construyo **juegos, herramientas y simulaciones educativas** que ayudan a mis estudiantes a aprender programación de forma visual, práctica y divertida.
-
-Me apasiona mezclar:
-
-- **GameDev** (Unity, Ren’Py, juegos web)  
-- **Pensamiento computacional**  
-- **Software full‑stack** (FastAPI, React, Node, microservicios)  
-- **Data Science** (Python, EDA, pipelines reproducibles)  
-- **Experiencias interactivas para el aula**
+**What I enjoy building**
+- Backend services and APIs (FastAPI, Node.js)
+- Data ingestion & processing pipelines (validation, normalization, streaming)
+- AI‑assisted automation (LLM integrations, structured outputs)
+- Full‑stack features when needed (React/Next.js + TypeScript)
 
 ---
 
-# Mis proyectos destacados
+## Featured Projects
 
-## Juegos educativos (Web, Ren’Py, Unity)
+### AI‑Assisted Document Processing (Excel/PDF → Structured Data)
+Backends and pipelines that extract, validate, and normalize data from documents for downstream workflows.
 
-- **Tres Puertas – Patrones**  
-  Juego sobre memoria y patrones.  
-  Disponible en itch.io: https://alevarriola.itch.io/tres-puertas  
+### Product / Pricing Ingestion Pipelines
+Workflows that transform normalized outputs into database‑ready imports, with safeguards for large datasets and long‑running executions.
 
-- **Escape de Abstracción**  
-  Escape room HTML donde los estudiantes detectan relaciones y abstraen información para abrir una puerta lógica.
+### Full‑Stack Apps (React/Next.js + API)
+End‑to‑end web apps integrating frontend flows with backend services, authentication, and robust data handling.
 
-- **Robot Algoritmo**  
-  Juego web + FastAPI donde los estudiantes escriben algoritmos (avanzar, girar, repetir, condicionales) para que un robot resuelva un laberinto.
+### Data Scraping & Analytics Pipelines
+Reusable scraping modules with clean separation between extraction, parsing, and persistence—plus analysis-ready outputs.
 
-- **PokeBattle (Ren’Py)**  
-  Sistema de batallas estilo Pokémon implementado enteramente dentro de Ren’Py.
-
-- **Simulación de rutas (AStar)**  
-  Tablero dinámico con cuadras, calles, intersecciones y obstáculos modificables en tiempo real.
+> **Note:** I also build educational simulations and games, mostly to explore algorithms, UX, and interactive systems.
 
 ---
 
-# Backend & Microservicios
-
-## FastAPI & Servicios distribuidos
-
-- Microservicios con FastAPI  
-- API Gateway con proxying dinámico  
-- Autenticación entre servicios (`X-Service-Token`)  
-- Circuit breaker + reintentos  
-- SQLite + SQLAlchemy  
-- Logs JSON por servicio  
-
-## Node.js & Express
-
-- **PassPort-Inc:** Sistema completo de autenticación con JWT + cookies HTTP-only + CSRF + Prisma.  
-- Panel Admin + Control de usuarios + Rate limit de login.
-
-## Sockets / TCP
-
-- Chat grupal por sockets con threading/select, múltiples clientes y comandos `/nombre` y `/exit`.
+## Tech Stack (Keywords)
+Python · FastAPI · SQLAlchemy · PostgreSQL · SQL · Pydantic · OpenAI API · Pandas · Requests · BeautifulSoup · React · Next.js · TypeScript · Node.js · Docker · Git · Linux
 
 ---
 
-# Frontend
-
-- React + Vite + TypeScript  
-- UI responsivas para juegos educativos  
-- SPA servidas desde FastAPI  
-- Experiencias modalidad **Alumno / Monitor**
+## Contact
+- GitHub: **@alevarriola**
+- Email: **alev_arriola@hotmail.com**
+- Location: Asunción, Paraguay
 
 ---
 
-# Data Science & Análisis
-
-## California Housing  
-EDA completo, correlaciones, análisis socioeconómico, mapas.
-
-## Mercado Eléctrico Español  
-Series temporales, estacionalidad, relación generación eólica ↔ precio.
-
-## Proyecto integrado  
-Comparación estadística entre ambos mercados (coef. variación, dispersión, KPIs integrados).
-
-Incluye:
-
-- Pipeline reproducible  
-- Scripts de descarga de Kaggle  
-- `notebooks/` modular  
-- Herramientas de visualización (`src/viz`)  
-
----
-
-# Tecnologías que uso
-
-## Programación / Backend
-Python • FastAPI • Flask • SQLAlchemy  
-Node.js • Express • Prisma  
-Sockets • Threading • TCP  
-SQLite • Postgres (básico)
-
-## Frontend
-React • Vite • TypeScript  
-HTML5 • CSS3 • Tailwind  
-UI Toolkit (Unity)
-
-## GameDev
-Unity (C#)  
-Ren’Py  
-Diseño de sistemas (cámaras, UI, AI, gameplay)
-
-## Data
-Jupyter • Pandas • NumPy  
-EDA • Visualización • Series temporales  
-Pipelines reproducibles
-
----
-
-# Sobre mí
-
-Soy docente de programación apasionado por combinar:
-
-- Educación + tecnología  
-- Juegos + aprendizaje  
-- Lógica + creatividad  
-
-Me encanta enseñar desde la práctica, diseñar actividades interactivas y crear material visual para que los estudiantes **quieran aprender**.  
-Siempre estoy creando proyectos nuevos, prototipos, juegos y herramientas educativas.
-
----
-
-# Dónde encontrarme
-
-- GitHub: **[@alevarriola](https://github.com/alevarriola)**
-- Itch.io: **https://alevarriola.itch.io**
-
----
-
-# GitHub Stats
-
-
+## GitHub Stats
 ![Alejandro GitHub Stats](https://github-readme-stats.vercel.app/api?username=alevarriola&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alevarriola&layout=compact&theme=radical)
 
 ---
 
-# English Version
+# Versión en Español (secundaria)
 
-## Hi, I'm Alejandro — Developer, teacher & creator of interactive learning experiences
+## Hola, soy Alejandro — Desarrollador Backend / Full‑Stack
 
-Welcome to my GitHub   
-I’m **Alejandro Arriola**, a programming teacher and software developer in constant evolution.  
-I build **games, tools and interactive simulations** that help my students learn programming in a visual, practical and fun way.
+¡Bienvenido a mi GitHub!  
+Soy **Alejandro Arriola**, **Python Backend Engineer** enfocado en **pipelines de datos**, **workflows asistidos por IA** y **sistemas backend escalables**. Me gusta construir servicios listos para producción, arquitecturas limpias y automatizaciones que convierten entradas complejas (Excel/PDF/JSON) en datos estructurados y confiables.
 
-I love combining:
+**Lo que más disfruto construir**
+- Servicios backend y APIs (FastAPI, Node.js)
+- Ingesta y procesamiento de datos (validación, normalización, streaming)
+- Automatización asistida por IA (integración con LLMs, salidas estructuradas)
+- Full‑stack cuando aporta valor (React/Next.js + TypeScript)
 
--  **Game Development** (Unity, Ren’Py, web games)  
--  **Computational thinking**  
--  **Full‑stack development** (FastAPI, React, Node, microservices)  
--  **Data Science**  
--  **Interactive learning experiences**
 
-###  Featured Projects
-
-- **Tres Puertas – Patterns** (itch.io)  
-- **Escape de Abstracción** (web logic puzzle)  
-- **Robot Algorithm Game** (FastAPI + React)  
-- **PokeBattle** (Ren’Py prototype)  
-- **A* Route Simulator** (interactive grid + pathfinding)
-
-###  Tech Stack 
-Python • FastAPI • Flask • SQLAlchemy  
-Node.js • Express • Prisma  
-React • Vite • TypeScript  
-Unity • Ren’Py  
-Sockets • Algorithms • Data Analysis
-
----
-
-#  Thanks for visiting my profile
-
-If you're into education, programming, algorithms, games, simulation or data science…  
-**follow me — I’m always building something new!** 
+> Nota: también hago simulaciones y juegos educativos para explorar algoritmos, UX y sistemas interactivos.
