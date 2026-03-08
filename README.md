@@ -47,7 +47,7 @@ Python · FastAPI · SQLAlchemy · PostgreSQL · SQL · Pydantic · OpenAI API �
 
 ---
 
-# Versión en Español (secundaria)
+# Versión en Español
 
 ## Hola, soy Alejandro — Desarrollador Backend / Full‑Stack
 
